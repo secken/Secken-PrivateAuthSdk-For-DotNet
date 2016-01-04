@@ -1,1 +1,0 @@
-# Secken-PrivateAuthSdk-For-DotNet
